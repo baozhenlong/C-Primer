@@ -1,11 +1,3 @@
-//
-//  Sales_data.h
-//  custom-data-struct
-//
-//  Created by mac on 2018/7/5.
-//  Copyright © 2018年 mac. All rights reserved.
-//
-
 //---编写自己的头文件
 //为了确保各个文件中类的定义一致，类通常被定义在头文件中，而且类所在头文件的名字应与类的名字一样
 //头文件：通常包含那些只能被定义一次的实体（如类、const、constexpr变量）
